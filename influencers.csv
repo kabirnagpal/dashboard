@@ -1,0 +1,501 @@
+influencer_id,name,category,gender,follower_count,platform
+1,Isha Singh,Herbs for Immunity,Male,1873427,Facebook
+2,Isha Naidu,Gainers,Female,267612,Instagram
+3,Ravi Mehta,Pre/Post Workout,Male,4709064,Facebook
+4,Suresh Chatterjee,Pre/Post Workout,Female,4944118,YouTube
+5,Aditya Menon,Vital Herbs,Female,2331953,Facebook
+6,Karan Kapoor,Gainers,Male,3188061,Instagram
+7,Rahul Verma,Herbs for Personal Care,Female,365488,Twitter
+8,Suresh Sharma,Vital Herbs,Male,4631852,YouTube
+9,Rohit Verma,Herbs for Personal Care,Male,584470,Instagram
+10,Sanya Gupta,Gainers,Male,848261,Twitter
+11,Vikram Das,Fat Burners,Male,3106303,YouTube
+12,Karan Nair,Gainers,Male,4481690,Facebook
+13,Anjali Das,Vital Herbs,Female,4673033,Facebook
+14,Shweta Patel,Pre/Post Workout,Male,2647211,Twitter
+15,Vikram Kumar,Pre/Post Workout,Female,1784640,Twitter
+16,Neha Das,Multivitamins,Female,1172304,Facebook
+17,Suresh Naidu,Herbs for Immunity,Female,4896028,Twitter
+18,Rahul Reddy,Multivitamins,Female,763603,Instagram
+19,Isha Joshi,Multivitamins,Female,533909,Twitter
+20,Neha Chopra,Speciality Supplements,Female,4641795,Instagram
+21,Isha Naidu,Herbs for Immunity,Female,936767,YouTube
+22,Manish Menon,Speciality Supplements,Male,2210467,Facebook
+23,Divya Sharma,Herbs for Immunity,Male,1283108,YouTube
+24,Anjali Naidu,Weight Loss Foods,Male,2720218,Twitter
+25,Aditya Sharma,Fat Burners,Female,2009671,Instagram
+26,Sanya Malhotra,Gainers,Male,4077783,Instagram
+27,Suresh Joshi,Multivitamins,Female,4613086,Facebook
+28,Vikram Joshi,Herbs for Personal Care,Female,1777692,Facebook
+29,Pooja Bhartia,Fat Burners,Female,4342740,Twitter
+30,Isha Reddy,Pre/Post Workout,Male,2837067,Instagram
+31,Anita Naidu,Pre/Post Workout,Male,61321,Instagram
+32,Sneha Reddy,Gainers,Male,2772835,Instagram
+33,Divya Reddy,Herbs for Immunity,Female,1798148,Facebook
+34,Anita Malhotra,Speciality Supplements,Male,3968584,Twitter
+35,Karan Sharma,Gainers,Female,2973063,Twitter
+36,Manish Das,Proteins,Male,509455,Twitter
+37,Shweta Sharma,Pre/Post Workout,Male,1596587,Twitter
+38,Deepak Chatterjee,Multivitamins,Female,3881805,Facebook
+39,Ravi Das,Weight Loss Foods,Male,425365,Instagram
+40,Ravi Reddy,Multivitamins,Female,4074853,Twitter
+41,Karan Bhartia,Proteins,Male,3180056,Instagram
+42,Neha Nair,Speciality Supplements,Female,3549443,Twitter
+43,Deepak Mehta,Herbs for Immunity,Male,491593,Instagram
+44,Shweta Patel,Proteins,Female,4219214,Facebook
+45,Sneha Joshi,Gainers,Male,575798,Instagram
+46,Sanya Bhartia,Gainers,Male,4857325,Instagram
+47,Rohit Kumar,Vital Herbs,Female,2188461,Facebook
+48,Shweta Reddy,Herbs for Immunity,Female,1098886,YouTube
+49,Priya Kapoor,Gainers,Male,3845377,Instagram
+50,Ravi Naidu,Pre/Post Workout,Female,1112126,YouTube
+51,Ravi Reddy,Fat Burners,Female,1324276,Twitter
+52,Suresh Gupta,Herbs for Personal Care,Male,4653341,YouTube
+53,Isha Joshi,Herbs for Immunity,Male,898882,Facebook
+54,Vikram Gupta,Herbs for Personal Care,Male,2877288,Facebook
+55,Vikram Joshi,Speciality Supplements,Female,427132,Instagram
+56,Manish Nair,Proteins,Male,2799075,Facebook
+57,Vikram Menon,Speciality Supplements,Female,4706227,Instagram
+58,Isha Kumar,Multivitamins,Male,3098208,Facebook
+59,Manish Joshi,Proteins,Female,3059918,Instagram
+60,Rahul Mehta,Pre/Post Workout,Male,2967871,Twitter
+61,Rohit Joshi,Pre/Post Workout,Male,1486222,Twitter
+62,Aditya Menon,Fat Burners,Female,2082777,YouTube
+63,Anjali Sharma,Vital Herbs,Male,3949434,Facebook
+64,Karan Das,Fat Burners,Female,1910209,Facebook
+65,Aditya Mehta,Vital Herbs,Female,2338091,Instagram
+66,Vikram Verma,Weight Loss Foods,Female,4499103,YouTube
+67,Aditya Sharma,Herbs for Immunity,Male,4871339,YouTube
+68,Sneha Sharma,Herbs for Personal Care,Female,2900833,YouTube
+69,Manish Chopra,Weight Loss Foods,Male,3232253,Facebook
+70,Vikram Patel,Vital Herbs,Male,4362407,Facebook
+71,Rahul Chatterjee,Gainers,Female,2634315,Instagram
+72,Pooja Joshi,Herbs for Immunity,Female,2737220,Twitter
+73,Pooja Naidu,Multivitamins,Male,3527959,Twitter
+74,Anjali Chopra,Herbs for Personal Care,Female,3407405,Instagram
+75,Pooja Gupta,Pre/Post Workout,Female,4866264,YouTube
+76,Priya Das,Speciality Supplements,Male,4289038,Twitter
+77,Anjali Kumar,Herbs for Immunity,Female,784388,Facebook
+78,Pooja Reddy,Pre/Post Workout,Male,205895,Instagram
+79,Sanya Iyer,Herbs for Personal Care,Male,3821307,Twitter
+80,Anita Mehta,Vital Herbs,Female,3353531,Facebook
+81,Deepak Singh,Gainers,Female,1836772,Facebook
+82,Divya Das,Proteins,Male,1019029,Twitter
+83,Deepak Das,Weight Loss Foods,Female,3713574,Twitter
+84,Suresh Das,Multivitamins,Female,3776458,YouTube
+85,Sanya Nair,Weight Loss Foods,Female,2007939,YouTube
+86,Priya Kumar,Herbs for Immunity,Male,2280311,YouTube
+87,Shweta Naidu,Gainers,Male,1266259,Facebook
+88,Neha Joshi,Pre/Post Workout,Male,3481164,Twitter
+89,Shweta Naidu,Speciality Supplements,Female,523322,Facebook
+90,Manish Bhartia,Herbs for Personal Care,Male,4830240,Twitter
+91,Amit Singh,Fat Burners,Female,3272445,Twitter
+92,Suresh Naidu,Herbs for Personal Care,Male,4096565,Facebook
+93,Vikram Chatterjee,Speciality Supplements,Male,3262970,YouTube
+94,Neha Menon,Speciality Supplements,Male,4481553,Instagram
+95,Neha Malhotra,Herbs for Personal Care,Male,705202,Twitter
+96,Deepak Das,Multivitamins,Male,2183349,Twitter
+97,Shweta Mehta,Speciality Supplements,Female,2832159,Twitter
+98,Vikram Chatterjee,Herbs for Immunity,Male,3946219,Instagram
+99,Suresh Patel,Fat Burners,Male,576612,Instagram
+100,Aditya Reddy,Pre/Post Workout,Male,1279275,Facebook
+101,Deepak Iyer,Gainers,Male,3901987,YouTube
+102,Rahul Menon,Herbs for Personal Care,Male,1374767,YouTube
+103,Isha Malhotra,Proteins,Female,4831133,Twitter
+104,Neha Mehta,Gainers,Male,855810,YouTube
+105,Rohit Sharma,Herbs for Personal Care,Male,2913556,Twitter
+106,Rahul Kumar,Weight Loss Foods,Female,107133,Twitter
+107,Amit Sharma,Vital Herbs,Female,3857573,Facebook
+108,Manish Menon,Weight Loss Foods,Female,4515521,Twitter
+109,Priya Chatterjee,Herbs for Personal Care,Female,2704686,Facebook
+110,Ravi Nair,Speciality Supplements,Male,3899257,Twitter
+111,Shweta Singh,Speciality Supplements,Female,1526383,Twitter
+112,Karan Verma,Herbs for Immunity,Female,2346945,YouTube
+113,Suresh Singh,Weight Loss Foods,Male,719173,Facebook
+114,Manish Iyer,Weight Loss Foods,Male,3994758,Twitter
+115,Priya Singh,Gainers,Female,1859885,Twitter
+116,Sanya Gupta,Herbs for Personal Care,Female,3970996,YouTube
+117,Manish Naidu,Fat Burners,Female,3807291,YouTube
+118,Pooja Nair,Pre/Post Workout,Male,1616514,YouTube
+119,Isha Naidu,Multivitamins,Male,1816165,Twitter
+120,Vikram Malhotra,Weight Loss Foods,Female,844274,Facebook
+121,Pooja Reddy,Fat Burners,Male,2536604,Instagram
+122,Suresh Joshi,Herbs for Immunity,Male,458397,YouTube
+123,Deepak Iyer,Gainers,Male,4816599,YouTube
+124,Amit Iyer,Speciality Supplements,Female,1547554,Instagram
+125,Vikram Iyer,Gainers,Male,3362377,Twitter
+126,Ravi Malhotra,Proteins,Male,1252560,YouTube
+127,Ravi Reddy,Gainers,Female,1894200,Twitter
+128,Priya Das,Herbs for Immunity,Female,2562715,Instagram
+129,Rohit Sharma,Pre/Post Workout,Male,2221012,Instagram
+130,Anjali Reddy,Multivitamins,Male,1314090,Instagram
+131,Manish Das,Herbs for Personal Care,Female,2444260,Instagram
+132,Sanya Gupta,Herbs for Immunity,Female,598099,Facebook
+133,Vikram Malhotra,Pre/Post Workout,Female,963813,Facebook
+134,Deepak Nair,Multivitamins,Male,501280,Facebook
+135,Pooja Chopra,Herbs for Personal Care,Female,3684886,Instagram
+136,Priya Gupta,Vital Herbs,Female,4199264,Twitter
+137,Priya Kumar,Herbs for Personal Care,Male,3625119,YouTube
+138,Rohit Nair,Proteins,Male,1921357,Instagram
+139,Vikram Malhotra,Proteins,Male,3947846,Twitter
+140,Vikram Menon,Herbs for Personal Care,Female,4125894,Instagram
+141,Amit Verma,Vital Herbs,Female,2694231,Instagram
+142,Anjali Kapoor,Vital Herbs,Female,2418746,Twitter
+143,Suresh Patel,Speciality Supplements,Male,2639361,YouTube
+144,Shweta Sharma,Vital Herbs,Male,4552604,Twitter
+145,Manish Patel,Pre/Post Workout,Female,4182663,Twitter
+146,Sneha Mehta,Herbs for Immunity,Male,2417163,Twitter
+147,Amit Sharma,Proteins,Male,1329572,YouTube
+148,Suresh Singh,Weight Loss Foods,Female,782895,Facebook
+149,Isha Das,Gainers,Male,4181676,YouTube
+150,Divya Nair,Vital Herbs,Female,3962266,Facebook
+151,Priya Naidu,Multivitamins,Female,1599955,Facebook
+152,Ravi Nair,Vital Herbs,Female,4260212,YouTube
+153,Aditya Gupta,Herbs for Immunity,Female,1247508,Twitter
+154,Suresh Iyer,Fat Burners,Female,4630818,Twitter
+155,Priya Kapoor,Pre/Post Workout,Male,4797586,Twitter
+156,Sanya Chatterjee,Proteins,Female,3968612,Twitter
+157,Neha Joshi,Speciality Supplements,Male,1060030,YouTube
+158,Isha Das,Gainers,Female,129744,Facebook
+159,Manish Joshi,Gainers,Female,2224172,YouTube
+160,Rohit Bhartia,Gainers,Female,4477348,Twitter
+161,Shweta Iyer,Weight Loss Foods,Male,574954,Facebook
+162,Pooja Reddy,Gainers,Female,826800,Instagram
+163,Priya Menon,Herbs for Immunity,Male,386800,YouTube
+164,Sneha Gupta,Fat Burners,Female,3613862,Facebook
+165,Sanya Joshi,Vital Herbs,Male,1426926,Facebook
+166,Ravi Chopra,Vital Herbs,Male,4175735,Facebook
+167,Sanya Das,Herbs for Immunity,Female,2142835,Instagram
+168,Priya Gupta,Weight Loss Foods,Male,620598,Twitter
+169,Rahul Malhotra,Herbs for Immunity,Female,2098975,Twitter
+170,Pooja Mehta,Vital Herbs,Female,895672,Facebook
+171,Neha Malhotra,Fat Burners,Female,2477575,Instagram
+172,Neha Nair,Proteins,Male,4167850,YouTube
+173,Sanya Chopra,Fat Burners,Male,1595942,YouTube
+174,Deepak Sharma,Proteins,Female,3698892,Instagram
+175,Anita Verma,Multivitamins,Male,2476565,YouTube
+176,Manish Menon,Pre/Post Workout,Male,4525880,YouTube
+177,Divya Joshi,Herbs for Immunity,Male,2156621,Twitter
+178,Pooja Kapoor,Gainers,Female,632656,Facebook
+179,Sanya Bhartia,Weight Loss Foods,Female,758515,Twitter
+180,Aditya Nair,Weight Loss Foods,Male,3816021,YouTube
+181,Vikram Malhotra,Vital Herbs,Female,909872,Facebook
+182,Amit Singh,Herbs for Personal Care,Female,1857962,Instagram
+183,Priya Gupta,Vital Herbs,Male,1173534,Instagram
+184,Sneha Gupta,Speciality Supplements,Male,816305,Facebook
+185,Suresh Joshi,Vital Herbs,Female,3113270,Twitter
+186,Anita Joshi,Vital Herbs,Male,4105940,Twitter
+187,Vikram Patel,Fat Burners,Male,3720366,Twitter
+188,Sanya Verma,Gainers,Female,4568310,YouTube
+189,Sneha Bhartia,Herbs for Immunity,Male,1025749,Twitter
+190,Ravi Mehta,Herbs for Personal Care,Male,425283,YouTube
+191,Sanya Joshi,Herbs for Personal Care,Male,576543,Facebook
+192,Anita Mehta,Pre/Post Workout,Female,1238774,Instagram
+193,Vikram Joshi,Multivitamins,Female,1464787,Instagram
+194,Aditya Joshi,Proteins,Female,1996914,YouTube
+195,Aditya Menon,Herbs for Immunity,Male,1064327,Twitter
+196,Divya Sharma,Gainers,Female,3761405,YouTube
+197,Divya Malhotra,Gainers,Female,4227505,Facebook
+198,Rohit Patel,Weight Loss Foods,Female,3843339,Instagram
+199,Sneha Iyer,Vital Herbs,Female,906649,Twitter
+200,Priya Kumar,Gainers,Female,1245314,Instagram
+201,Deepak Nair,Herbs for Personal Care,Female,3196257,YouTube
+202,Priya Joshi,Herbs for Personal Care,Female,832969,Instagram
+203,Suresh Mehta,Vital Herbs,Female,1917743,Twitter
+204,Shweta Das,Vital Herbs,Female,798637,YouTube
+205,Manish Kapoor,Herbs for Immunity,Female,1281428,Twitter
+206,Ravi Kumar,Gainers,Male,3623842,Instagram
+207,Rahul Joshi,Weight Loss Foods,Male,4920625,YouTube
+208,Isha Chatterjee,Fat Burners,Female,432560,YouTube
+209,Rohit Gupta,Fat Burners,Male,4848931,Facebook
+210,Deepak Iyer,Pre/Post Workout,Male,2937969,YouTube
+211,Isha Nair,Herbs for Personal Care,Male,3600655,Instagram
+212,Rohit Nair,Proteins,Male,2293358,YouTube
+213,Shweta Verma,Proteins,Male,1202680,Twitter
+214,Ravi Joshi,Proteins,Male,4451011,Facebook
+215,Neha Chatterjee,Speciality Supplements,Female,1321444,YouTube
+216,Pooja Kapoor,Herbs for Personal Care,Male,442314,Facebook
+217,Anjali Chopra,Proteins,Male,2283564,Twitter
+218,Manish Iyer,Herbs for Personal Care,Female,3475425,YouTube
+219,Karan Joshi,Gainers,Female,3607376,Instagram
+220,Pooja Malhotra,Speciality Supplements,Female,381988,Facebook
+221,Neha Chopra,Proteins,Male,1715825,YouTube
+222,Karan Joshi,Herbs for Immunity,Female,2753489,Instagram
+223,Aditya Iyer,Vital Herbs,Male,1084688,Twitter
+224,Suresh Reddy,Weight Loss Foods,Female,605613,Twitter
+225,Sneha Chatterjee,Proteins,Female,654158,YouTube
+226,Anita Chatterjee,Herbs for Personal Care,Female,3504870,YouTube
+227,Isha Bhartia,Proteins,Female,1442776,Twitter
+228,Rahul Kumar,Vital Herbs,Male,2042086,Twitter
+229,Anita Bhartia,Weight Loss Foods,Male,3320931,YouTube
+230,Shweta Reddy,Fat Burners,Male,641716,Instagram
+231,Divya Joshi,Pre/Post Workout,Female,2946238,Facebook
+232,Sanya Sharma,Multivitamins,Female,1655835,Facebook
+233,Rohit Joshi,Gainers,Male,4145954,Twitter
+234,Anita Malhotra,Speciality Supplements,Female,2652965,Facebook
+235,Priya Kumar,Speciality Supplements,Female,2541241,YouTube
+236,Anita Patel,Fat Burners,Male,2604889,Twitter
+237,Priya Patel,Proteins,Female,2409176,Instagram
+238,Ravi Chopra,Herbs for Personal Care,Female,3882506,Instagram
+239,Priya Malhotra,Pre/Post Workout,Female,3990865,Facebook
+240,Sneha Das,Gainers,Female,708404,Facebook
+241,Sneha Reddy,Speciality Supplements,Female,4397205,Facebook
+242,Rahul Verma,Herbs for Immunity,Female,3430006,YouTube
+243,Rohit Patel,Fat Burners,Male,2766646,Instagram
+244,Suresh Bhartia,Herbs for Immunity,Female,1262422,YouTube
+245,Ravi Malhotra,Multivitamins,Female,2603412,Twitter
+246,Deepak Chopra,Gainers,Female,4689578,Twitter
+247,Shweta Joshi,Weight Loss Foods,Male,3552790,YouTube
+248,Aditya Verma,Herbs for Immunity,Male,1797778,YouTube
+249,Amit Mehta,Pre/Post Workout,Male,1300774,Instagram
+250,Pooja Sharma,Weight Loss Foods,Male,2825984,Facebook
+251,Rohit Bhartia,Multivitamins,Male,1518045,Facebook
+252,Priya Patel,Vital Herbs,Female,1993547,Twitter
+253,Rohit Gupta,Speciality Supplements,Male,4480610,Facebook
+254,Pooja Iyer,Pre/Post Workout,Female,4786024,Twitter
+255,Priya Gupta,Vital Herbs,Female,1360442,Facebook
+256,Rohit Joshi,Herbs for Immunity,Male,4032486,YouTube
+257,Suresh Sharma,Weight Loss Foods,Male,2392281,Instagram
+258,Anjali Nair,Speciality Supplements,Male,3670785,Instagram
+259,Sanya Das,Fat Burners,Male,3481407,Instagram
+260,Neha Joshi,Fat Burners,Male,3240396,Instagram
+261,Rahul Reddy,Proteins,Female,832169,YouTube
+262,Deepak Joshi,Proteins,Female,3964239,Facebook
+263,Amit Das,Herbs for Personal Care,Male,665593,Instagram
+264,Vikram Mehta,Multivitamins,Female,933702,YouTube
+265,Sanya Gupta,Gainers,Male,2001175,Twitter
+266,Rohit Das,Gainers,Male,4193871,Instagram
+267,Divya Malhotra,Pre/Post Workout,Male,2444366,Twitter
+268,Aditya Chopra,Fat Burners,Male,4788074,Twitter
+269,Anjali Kumar,Weight Loss Foods,Female,568735,Instagram
+270,Neha Iyer,Proteins,Female,3132487,YouTube
+271,Aditya Verma,Gainers,Female,2023710,Instagram
+272,Anita Kapoor,Multivitamins,Male,2956298,YouTube
+273,Anjali Das,Speciality Supplements,Male,1132225,Instagram
+274,Priya Patel,Herbs for Immunity,Male,368473,Facebook
+275,Sneha Kapoor,Herbs for Immunity,Female,4556271,Twitter
+276,Vikram Patel,Pre/Post Workout,Female,2995516,Instagram
+277,Shweta Nair,Gainers,Female,3666413,Twitter
+278,Priya Bhartia,Fat Burners,Male,4163454,Twitter
+279,Rahul Joshi,Herbs for Immunity,Male,3561961,Instagram
+280,Manish Chopra,Multivitamins,Female,2695516,Instagram
+281,Ravi Kapoor,Herbs for Immunity,Female,3741612,Twitter
+282,Anjali Das,Fat Burners,Female,356300,YouTube
+283,Rohit Chatterjee,Herbs for Immunity,Male,630490,Twitter
+284,Rahul Joshi,Multivitamins,Male,1198720,Twitter
+285,Sneha Joshi,Gainers,Male,3073985,YouTube
+286,Neha Malhotra,Proteins,Male,3775224,YouTube
+287,Rahul Das,Gainers,Male,4442431,YouTube
+288,Neha Kapoor,Herbs for Immunity,Male,952675,Instagram
+289,Anjali Iyer,Weight Loss Foods,Female,4712652,Instagram
+290,Vikram Nair,Speciality Supplements,Male,2396592,Twitter
+291,Karan Sharma,Multivitamins,Male,3793008,Facebook
+292,Priya Kumar,Fat Burners,Female,545748,YouTube
+293,Pooja Menon,Multivitamins,Female,4268752,Facebook
+294,Isha Mehta,Multivitamins,Male,4145156,Instagram
+295,Rahul Naidu,Herbs for Personal Care,Female,3921884,Facebook
+296,Rohit Kumar,Gainers,Female,3341007,Twitter
+297,Divya Chatterjee,Vital Herbs,Male,1052317,YouTube
+298,Ravi Das,Speciality Supplements,Female,1077548,Facebook
+299,Deepak Chatterjee,Weight Loss Foods,Male,1042538,Facebook
+300,Pooja Menon,Multivitamins,Female,1892381,YouTube
+301,Divya Gupta,Gainers,Female,1647699,YouTube
+302,Deepak Gupta,Herbs for Personal Care,Male,4216889,Facebook
+303,Anita Malhotra,Multivitamins,Male,2833158,Instagram
+304,Aditya Kumar,Proteins,Female,1769388,Twitter
+305,Rohit Singh,Speciality Supplements,Female,2535149,Twitter
+306,Sanya Bhartia,Herbs for Immunity,Female,613142,Instagram
+307,Anjali Das,Vital Herbs,Female,3897023,Facebook
+308,Shweta Chopra,Multivitamins,Female,2679620,YouTube
+309,Neha Joshi,Fat Burners,Male,2677938,Facebook
+310,Priya Sharma,Herbs for Immunity,Female,2080694,Facebook
+311,Isha Patel,Herbs for Immunity,Female,3508568,Facebook
+312,Anjali Kapoor,Herbs for Personal Care,Female,1593443,Facebook
+313,Amit Joshi,Speciality Supplements,Female,2589225,Twitter
+314,Aditya Kumar,Vital Herbs,Female,2020378,Facebook
+315,Anita Verma,Proteins,Male,2361188,Twitter
+316,Rohit Iyer,Herbs for Immunity,Male,902750,Twitter
+317,Deepak Nair,Fat Burners,Female,3070705,Instagram
+318,Neha Patel,Herbs for Personal Care,Male,3042069,YouTube
+319,Ravi Bhartia,Weight Loss Foods,Female,4613535,YouTube
+320,Rohit Chopra,Gainers,Male,812023,Twitter
+321,Rahul Kapoor,Weight Loss Foods,Female,1211202,Facebook
+322,Rohit Joshi,Vital Herbs,Male,381032,Instagram
+323,Deepak Kapoor,Speciality Supplements,Female,1250404,Facebook
+324,Shweta Chopra,Fat Burners,Male,3297341,YouTube
+325,Anita Kapoor,Weight Loss Foods,Female,4723150,YouTube
+326,Amit Singh,Fat Burners,Female,920429,Twitter
+327,Anita Gupta,Proteins,Female,2228430,Facebook
+328,Sneha Malhotra,Speciality Supplements,Male,4398579,Twitter
+329,Deepak Reddy,Proteins,Male,1601414,Instagram
+330,Priya Kapoor,Vital Herbs,Male,3465160,Facebook
+331,Manish Joshi,Herbs for Personal Care,Female,523453,Facebook
+332,Divya Mehta,Weight Loss Foods,Female,4013866,Twitter
+333,Shweta Menon,Speciality Supplements,Female,4583471,YouTube
+334,Vikram Chopra,Speciality Supplements,Male,2068952,YouTube
+335,Suresh Gupta,Pre/Post Workout,Female,2425342,Facebook
+336,Amit Kapoor,Speciality Supplements,Female,4702710,YouTube
+337,Pooja Sharma,Herbs for Personal Care,Female,3310578,YouTube
+338,Deepak Gupta,Proteins,Female,663946,YouTube
+339,Priya Nair,Speciality Supplements,Male,1696069,YouTube
+340,Suresh Nair,Multivitamins,Male,4923691,Facebook
+341,Sanya Patel,Weight Loss Foods,Male,1954174,Instagram
+342,Isha Chatterjee,Fat Burners,Female,844431,Facebook
+343,Aditya Naidu,Multivitamins,Female,3991457,Twitter
+344,Karan Gupta,Fat Burners,Female,497291,Instagram
+345,Anita Reddy,Weight Loss Foods,Male,1469549,Twitter
+346,Anjali Patel,Vital Herbs,Female,1563895,YouTube
+347,Sneha Singh,Herbs for Immunity,Male,2811536,YouTube
+348,Priya Naidu,Weight Loss Foods,Female,1126750,Twitter
+349,Vikram Mehta,Gainers,Female,1364100,Twitter
+350,Vikram Menon,Proteins,Female,2475842,Facebook
+351,Anjali Chopra,Vital Herbs,Female,4323487,YouTube
+352,Ravi Bhartia,Gainers,Male,1180537,Twitter
+353,Shweta Reddy,Proteins,Female,3218655,Facebook
+354,Priya Nair,Fat Burners,Female,4887034,Instagram
+355,Vikram Verma,Pre/Post Workout,Male,992741,Twitter
+356,Pooja Menon,Vital Herbs,Female,985954,YouTube
+357,Rahul Chopra,Pre/Post Workout,Male,1121456,Twitter
+358,Deepak Das,Herbs for Personal Care,Female,3489365,Twitter
+359,Suresh Mehta,Pre/Post Workout,Male,4409269,Twitter
+360,Divya Verma,Gainers,Male,519064,Facebook
+361,Anita Naidu,Multivitamins,Male,2753450,Twitter
+362,Isha Mehta,Herbs for Personal Care,Female,763873,Twitter
+363,Sneha Das,Multivitamins,Female,3832903,Instagram
+364,Suresh Das,Herbs for Immunity,Male,3322458,YouTube
+365,Aditya Mehta,Herbs for Personal Care,Male,380918,Twitter
+366,Rahul Kumar,Weight Loss Foods,Male,579974,Twitter
+367,Sneha Gupta,Vital Herbs,Male,1137059,Twitter
+368,Rahul Bhartia,Speciality Supplements,Female,3152143,Instagram
+369,Suresh Joshi,Fat Burners,Male,1498145,Twitter
+370,Divya Joshi,Pre/Post Workout,Male,191717,YouTube
+371,Priya Naidu,Vital Herbs,Female,1927561,Facebook
+372,Priya Verma,Multivitamins,Female,1582088,Instagram
+373,Sneha Chatterjee,Herbs for Personal Care,Male,2019855,Facebook
+374,Ravi Sharma,Herbs for Personal Care,Male,3746019,Instagram
+375,Sanya Patel,Vital Herbs,Female,1966780,Facebook
+376,Sneha Joshi,Weight Loss Foods,Female,1965289,YouTube
+377,Anita Chopra,Fat Burners,Male,2532383,Facebook
+378,Divya Reddy,Vital Herbs,Female,2309158,Instagram
+379,Suresh Malhotra,Multivitamins,Female,4663813,Twitter
+380,Sneha Verma,Vital Herbs,Female,3493384,Twitter
+381,Deepak Gupta,Vital Herbs,Male,4513469,Twitter
+382,Sanya Reddy,Herbs for Immunity,Male,3885136,Instagram
+383,Suresh Chatterjee,Vital Herbs,Male,3259295,Facebook
+384,Vikram Mehta,Fat Burners,Male,3774085,YouTube
+385,Ravi Naidu,Pre/Post Workout,Male,2253019,Twitter
+386,Rohit Chopra,Proteins,Male,1579428,Facebook
+387,Amit Mehta,Fat Burners,Female,129628,Facebook
+388,Karan Sharma,Speciality Supplements,Male,1716580,Twitter
+389,Sanya Naidu,Fat Burners,Female,3194222,Twitter
+390,Suresh Verma,Herbs for Immunity,Female,3017917,Twitter
+391,Priya Sharma,Speciality Supplements,Female,1704956,YouTube
+392,Shweta Chatterjee,Proteins,Male,1225088,Instagram
+393,Vikram Naidu,Herbs for Personal Care,Female,2477252,Facebook
+394,Karan Kapoor,Pre/Post Workout,Female,4780740,Facebook
+395,Amit Naidu,Fat Burners,Female,4099850,Twitter
+396,Priya Menon,Fat Burners,Male,1175057,Twitter
+397,Anjali Naidu,Proteins,Male,624528,Instagram
+398,Aditya Chatterjee,Multivitamins,Male,571156,Facebook
+399,Aditya Mehta,Weight Loss Foods,Female,3131634,Instagram
+400,Rohit Chopra,Speciality Supplements,Female,132967,Instagram
+401,Suresh Naidu,Vital Herbs,Male,141309,YouTube
+402,Suresh Gupta,Proteins,Female,1504799,Instagram
+403,Isha Joshi,Multivitamins,Male,1611042,YouTube
+404,Rahul Nair,Vital Herbs,Male,3130383,Twitter
+405,Priya Malhotra,Pre/Post Workout,Male,2517369,Instagram
+406,Sneha Kumar,Vital Herbs,Female,3164927,Twitter
+407,Sneha Singh,Multivitamins,Male,4194116,Twitter
+408,Shweta Malhotra,Gainers,Male,1928421,Facebook
+409,Anita Iyer,Herbs for Immunity,Male,624676,YouTube
+410,Suresh Malhotra,Proteins,Male,2639088,Instagram
+411,Karan Malhotra,Multivitamins,Female,646398,YouTube
+412,Anjali Malhotra,Pre/Post Workout,Female,4535566,YouTube
+413,Neha Joshi,Gainers,Female,451438,Instagram
+414,Manish Reddy,Gainers,Female,4997327,Twitter
+415,Shweta Singh,Herbs for Immunity,Female,4116480,Facebook
+416,Rahul Naidu,Vital Herbs,Female,1559081,Twitter
+417,Ravi Chopra,Herbs for Immunity,Male,617618,Instagram
+418,Vikram Joshi,Vital Herbs,Male,3269386,YouTube
+419,Rahul Sharma,Gainers,Male,2586934,Twitter
+420,Rahul Nair,Gainers,Male,733302,Facebook
+421,Manish Das,Weight Loss Foods,Female,867483,Instagram
+422,Ravi Verma,Weight Loss Foods,Male,2722518,Twitter
+423,Aditya Gupta,Vital Herbs,Female,711511,Facebook
+424,Anita Joshi,Multivitamins,Female,1422883,Facebook
+425,Vikram Gupta,Herbs for Immunity,Female,1225190,Instagram
+426,Anjali Chatterjee,Herbs for Immunity,Female,2515504,Twitter
+427,Ravi Verma,Herbs for Immunity,Male,4160092,Facebook
+428,Priya Sharma,Multivitamins,Female,57768,Twitter
+429,Shweta Chopra,Vital Herbs,Female,3693857,YouTube
+430,Manish Chopra,Multivitamins,Female,2690934,Facebook
+431,Amit Kapoor,Multivitamins,Female,2678120,YouTube
+432,Amit Malhotra,Pre/Post Workout,Female,3155580,YouTube
+433,Neha Verma,Gainers,Male,4968960,Facebook
+434,Suresh Singh,Speciality Supplements,Male,3679026,YouTube
+435,Ravi Chatterjee,Speciality Supplements,Male,2541344,Facebook
+436,Vikram Joshi,Vital Herbs,Female,621464,Twitter
+437,Rohit Iyer,Herbs for Personal Care,Female,4483598,Twitter
+438,Suresh Patel,Fat Burners,Male,918457,Facebook
+439,Rahul Menon,Herbs for Personal Care,Male,4725634,Twitter
+440,Shweta Chatterjee,Gainers,Male,828171,YouTube
+441,Sanya Joshi,Weight Loss Foods,Male,3740461,YouTube
+442,Neha Das,Herbs for Personal Care,Male,2894796,Instagram
+443,Amit Sharma,Herbs for Immunity,Female,721202,Instagram
+444,Deepak Verma,Herbs for Immunity,Female,3820606,Facebook
+445,Divya Iyer,Fat Burners,Female,819921,Twitter
+446,Priya Kapoor,Gainers,Female,375828,Instagram
+447,Aditya Kapoor,Gainers,Male,2047090,Facebook
+448,Suresh Menon,Fat Burners,Female,3876991,Facebook
+449,Neha Menon,Multivitamins,Female,3319385,Instagram
+450,Rohit Mehta,Speciality Supplements,Female,3262790,Instagram
+451,Karan Mehta,Herbs for Immunity,Male,4844145,Instagram
+452,Suresh Menon,Fat Burners,Female,1654178,Twitter
+453,Isha Nair,Speciality Supplements,Female,3261142,Twitter
+454,Anita Sharma,Fat Burners,Female,3841812,Facebook
+455,Pooja Chopra,Herbs for Personal Care,Male,1124635,YouTube
+456,Isha Reddy,Herbs for Immunity,Male,1536488,YouTube
+457,Deepak Joshi,Vital Herbs,Female,1157514,Twitter
+458,Manish Menon,Speciality Supplements,Male,4655944,Facebook
+459,Amit Gupta,Multivitamins,Male,2639888,Twitter
+460,Rohit Patel,Fat Burners,Male,4066194,Facebook
+461,Karan Bhartia,Weight Loss Foods,Female,3433067,Twitter
+462,Manish Das,Speciality Supplements,Male,694491,Instagram
+463,Sanya Gupta,Proteins,Female,1887123,YouTube
+464,Anjali Das,Herbs for Personal Care,Female,4612437,Instagram
+465,Anita Sharma,Herbs for Immunity,Female,4547989,Instagram
+466,Priya Naidu,Pre/Post Workout,Female,860131,Facebook
+467,Pooja Patel,Speciality Supplements,Female,2925075,Instagram
+468,Priya Sharma,Pre/Post Workout,Male,4932863,YouTube
+469,Rohit Chatterjee,Multivitamins,Male,1734251,Facebook
+470,Sneha Malhotra,Fat Burners,Female,4520518,Facebook
+471,Shweta Gupta,Herbs for Immunity,Female,4316225,Instagram
+472,Deepak Chatterjee,Proteins,Female,1065415,Facebook
+473,Sanya Joshi,Fat Burners,Male,3295212,Twitter
+474,Deepak Malhotra,Herbs for Immunity,Female,3148173,Twitter
+475,Ravi Kumar,Vital Herbs,Female,3096993,Twitter
+476,Amit Kapoor,Herbs for Personal Care,Male,782328,Twitter
+477,Rahul Kumar,Weight Loss Foods,Female,1828289,Twitter
+478,Karan Iyer,Herbs for Immunity,Female,2379951,YouTube
+479,Suresh Malhotra,Multivitamins,Female,2884496,Instagram
+480,Sneha Sharma,Speciality Supplements,Male,1043176,Facebook
+481,Priya Das,Proteins,Female,1698168,Facebook
+482,Pooja Menon,Herbs for Immunity,Male,3024551,YouTube
+483,Ravi Verma,Multivitamins,Male,3325754,YouTube
+484,Sanya Chatterjee,Gainers,Male,10112,Facebook
+485,Amit Kumar,Multivitamins,Male,4358414,Twitter
+486,Aditya Singh,Fat Burners,Male,3543626,Facebook
+487,Amit Kumar,Pre/Post Workout,Female,750363,Instagram
+488,Isha Kapoor,Fat Burners,Female,1151323,Twitter
+489,Deepak Joshi,Gainers,Male,1377709,Twitter
+490,Rahul Mehta,Multivitamins,Female,3711984,Facebook
+491,Ravi Sharma,Multivitamins,Male,4946704,Twitter
+492,Rahul Chatterjee,Fat Burners,Male,2079582,YouTube
+493,Ravi Reddy,Weight Loss Foods,Female,226019,YouTube
+494,Karan Joshi,Herbs for Personal Care,Male,3287245,YouTube
+495,Sneha Reddy,Speciality Supplements,Female,946762,Facebook
+496,Amit Chopra,Gainers,Male,3030111,YouTube
+497,Deepak Bhartia,Herbs for Personal Care,Female,3066301,Facebook
+498,Amit Kumar,Proteins,Male,116707,YouTube
+499,Karan Patel,Proteins,Female,4250757,YouTube
+500,Divya Chatterjee,Vital Herbs,Female,692454,Facebook
